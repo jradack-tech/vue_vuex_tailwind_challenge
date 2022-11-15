@@ -3,6 +3,7 @@ import App from './App.vue'
 import store from "./store";
 import '@/main.css'
 
+
 Vue.config.productionTip = false
 
 new Vue({
